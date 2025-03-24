@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Camila Ikert!
 
-<!--
-**CamilaMilenaIkkert/CamilaMilenaIkkert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desarrolladora Frontend | React | Next.js | Vue | TypeScript
 
-Here are some ideas to get you started:
+Soy estudiante de la Licenciatura en Desarrollo de Software Libre pronta a terminar (finales del 2025). Gracias a mi carrera y muchos otros cursos realizados he podido aplicar y utilizar diferentes lenguajes, tecnolgías y herramientas como **React, Next.js, Tailwind CSS, Vue, TypeScript y más**. Siemrpe estoy en busca de nuevas tecnologías y proyectos para mejorar cada día un poco más.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 📌 Tecnologías y herramientas
+
+- 🖥 **Frontend:** React, Next.js, Vue, TypeScript, Tailwind CSS, Js, Sass
+- ⚙️ **Backend:** Node.js, Express, PHP
+- 🗄 **Bases de datos:** MySQL
+- 📦 **Herramientas:** Git, GitHub, Vercel, XAMPP, Workbench, Apache server
+- 🎨 **Diseño:** Figma
+
+---
+
+## 📂 Proyectos Destacados
+
+Cualquiera de estos proyectos pueden verse desplegados en diferentes páginas como Netlify o Vercel. Dentro de mi portfolio (siguiente sección), en la página ´proyetos´ se puede acceder a los links de los proyectos desplegados. 
+
+🔹 [**Ta-Te-Ti o Tres en línea**]([https://github.com/tu-repo-ecommerce](https://github.com/CamilaMilenaIkkert/Tateti-Game)) - Juego del tateti realizado con Next.js y desplegado en Vercel.
+
+🔹 [**Agenda de contactos**]([https://github.com/tu-repo-agenda](https://github.com/CamilaMilenaIkkert/Lista-de-contactos)) - Aplicación para gestionar contactos con Vue y MySQL.
+
+🔹 [**Portfolio personal**]([https://github.com/tu-repo-portfolio](https://github.com/CamilaMilenaIkkert/Portfolio-Nextjs)) - Mi portfolio desarrollado con Next.js y desplegado en Vercel.
+
+---
+
+
+## 📫 Conéctate conmigo
+
+- 🌐 [**Mi Portfolio**]([https://tuportfolio.com](https://portfolio-react-murex-two.vercel.app/))
+- 💼 [LinkedIn]([https://linkedin.com/in/tuperfil](https://www.linkedin.com/in/camila-milena-ikkert/))
+- 📧 Email: camilaikkert@gmail.com
+
+---
+
+⭐ ¡No dudes en explorar mis proyectos y conectar conmigo!
