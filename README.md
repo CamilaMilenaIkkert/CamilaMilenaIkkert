@@ -21,19 +21,19 @@ Soy estudiante de la Licenciatura en Desarrollo de Software Libre pronta a termi
 
 Cualquiera de estos proyectos pueden verse desplegados en diferentes páginas como Netlify o Vercel. Dentro de mi portfolio (siguiente sección), en la página ´proyetos´ se puede acceder a los links de los proyectos desplegados. 
 
-🔹 [**Ta-Te-Ti o Tres en línea**]([https://github.com/tu-repo-ecommerce](https://github.com/CamilaMilenaIkkert/Tateti-Game)) - Juego del tateti realizado con Next.js y desplegado en Vercel.
+🔹 [**Ta-Te-Ti o Tres en línea**](https://github.com/CamilaMilenaIkkert/Tateti-Game) - Juego del tateti realizado con Next.js y desplegado en Vercel.
 
-🔹 [**Agenda de contactos**]([https://github.com/tu-repo-agenda](https://github.com/CamilaMilenaIkkert/Lista-de-contactos)) - Aplicación para gestionar contactos con Vue y MySQL.
+🔹 [**Agenda de contactos**](https://github.com/CamilaMilenaIkkert/Lista-de-contactos) - Aplicación para gestionar contactos con Vue y MySQL.
 
-🔹 [**Portfolio personal**]([https://github.com/tu-repo-portfolio](https://github.com/CamilaMilenaIkkert/Portfolio-Nextjs)) - Mi portfolio desarrollado con Next.js y desplegado en Vercel.
+🔹 [**Portfolio personal**](https://github.com/CamilaMilenaIkkert/Portfolio-Nextjs) - Mi portfolio desarrollado con Next.js y desplegado en Vercel.
 
 ---
 
 
 ## 📫 Conéctate conmigo
 
-- 🌐 [**Mi Portfolio**]([https://tuportfolio.com](https://portfolio-react-murex-two.vercel.app/))
-- 💼 [LinkedIn]([https://linkedin.com/in/tuperfil](https://www.linkedin.com/in/camila-milena-ikkert/))
+- 🌐 [**Mi Portfolio**](https://portfolio-react-murex-two.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/camila-milena-ikkert/)
 - 📧 Email: camilaikkert@gmail.com
 
 ---
